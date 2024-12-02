@@ -23,9 +23,9 @@ display_welcome() {
   echo -e "𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 :"
   echo -e "0856-4122-5753"
   echo -e "𝗬𝗢𝗨𝗧𝗨𝗕𝗘 :"
-  echo -e "@vallz134"
+  echo -e "@gustafhosting22"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
-  echo -e "@VallzOffc"
+  echo -e "@gustafhosting22"
   sleep 4
   clear
 }
@@ -58,7 +58,7 @@ install_jq() {
 check_token() {
   echo -e "                                                       "
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BLUE}[+]               LICENSY GUSTAF HOSTING             [+]${NC}"
+  echo -e "${BLUE}[+]               LICENSE GUSTAF HOSTING             [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
